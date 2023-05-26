@@ -1,5 +1,6 @@
 ## Trabalho de desenvolvimento WEB
 
-alunos: Jailson Rodrigues de Sá
-
+## Alunos: 
+Jailson Rodrigues de Sá
+Daniel Wagner Santos Mendes
 
